@@ -12,6 +12,7 @@
 <a href="https://github.com/amit-dev01?tab=repositories">
   <img src="https://img.shields.io/badge/15%20public%20repos-browse%20all-7C3AED?style=flat-square&labelColor=1F2937&logo=github&logoColor=white" alt="Repositories" />
 </a>
+<a href="https://www.linkedin.com/in/amit-dey-261927328/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&labelColor=1F2937&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-06B6D4?style=flat-square&labelColor=1F2937&logo=opensourceinitiative&logoColor=white" alt="Open to collaborate" />
 <img src="https://komarev.com/ghpvc/?username=amit-dev01&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
 
@@ -45,7 +46,7 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 >
 > **Ask me about**
 >
-> `Java` · `Spring Boot` · `SQL modelling` · `DSA`
+> `Java` · `Spring Boot` · `Spring Security` · `SQL modelling` · `DSA`
 
 </td>
 </tr>
@@ -58,24 +59,49 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <div align="center">
 
-<p><sub><b>LANGUAGES &amp; FRAMEWORKS</b></sub></p>
+<p><sub><b>LANGUAGES &amp; CORE</b></sub></p>
 
-<img src="https://skillicons.dev/icons?i=java,c,kotlin,python,spring,maven&theme=dark" alt="Java, C, Kotlin, Python, Spring, Maven" />
+<img src="https://skillicons.dev/icons?i=java,c,kotlin,python,spring&theme=dark" alt="Java, C, Kotlin, Python, Spring" />
 
-<p><sub><b>DATA &amp; INFRASTRUCTURE</b></sub></p>
+<p><sub><b>JAVA &amp; SPRING ECOSYSTEM</b></sub></p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,jenkins&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Jenkins" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+<img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito" />
+<br />
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Apache Maven" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />
+<img src="https://img.shields.io/badge/Lombok-BC4521?style=flat-square" alt="Lombok" />
+
+<p><sub><b>DATA, STREAMING &amp; CACHING</b></sub></p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL, MongoDB" />
+<br />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+
+<p><sub><b>DEVOPS, CLOUD &amp; OBSERVABILITY</b></sub></p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,linux,git&theme=dark" alt="Docker, Kubernetes, Jenkins, Nginx, Linux, Git" />
+<br />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 
 <p><sub><b>ALSO SHIPPING WITH</b></sub></p>
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastapi,tailwind&theme=dark" alt="TypeScript, React, Next.js, Node.js, FastAPI, Tailwind CSS" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+<br /><br />
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
 
 </div>
@@ -116,12 +142,12 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <a href="https://github.com/amit-dev01"><img src="https://img.shields.io/badge/GitHub-amit--dev01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/amit-dev01?tab=repositories"><img src="https://img.shields.io/badge/Projects-all%20repos-7C3AED?style=for-the-badge&logo=gitbook&logoColor=white" alt="All repositories" /></a>
+<a href="https://www.linkedin.com/in/amit-dey-261927328/"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:deyamit0044l@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <!--
   Add more profiles by replacing '#' with your real URLs, then uncomment.
 
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/X-@amit__dev01-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-amit.dev-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 -->
