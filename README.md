@@ -59,50 +59,31 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <div align="center">
 
-<p><sub><b>LANGUAGES &amp; CORE</b></sub></p>
+<p><sub><b>LANGUAGES</b></sub></p>
 
-<img src="https://skillicons.dev/icons?i=java,c,kotlin,python,spring&theme=dark" alt="Java, C, Kotlin, Python, Spring" />
+<img src="https://skillicons.dev/icons?i=java,c,kotlin,python,typescript&theme=dark" alt="Java, C, Kotlin, Python, TypeScript" />
 
 <p><sub><b>JAVA &amp; SPRING ECOSYSTEM</b></sub></p>
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito" />
-<br />
-<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Apache Maven" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />
-<img src="https://img.shields.io/badge/Lombok-BC4521?style=flat-square" alt="Lombok" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle,idea&theme=dark" alt="Spring, Hibernate, Maven, Gradle, IntelliJ IDEA" />
+
+<sub>Spring Security · Spring Data JPA · JUnit 5 · Mockito · Lombok · Apache Tomcat</sub>
 
 <p><sub><b>DATA, STREAMING &amp; CACHING</b></sub></p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL, MongoDB" />
-<br />
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,kafka,rabbitmq,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, Supabase" />
 
-<p><sub><b>DEVOPS, CLOUD &amp; OBSERVABILITY</b></sub></p>
+<p><sub><b>DELIVERY &amp; INFRASTRUCTURE</b></sub></p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,linux,git&theme=dark" alt="Docker, Kubernetes, Jenkins, Nginx, Linux, Git" />
-<br />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible,nginx&theme=dark" alt="Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Nginx" />
+
+<p><sub><b>RUNTIME, SHELL &amp; OBSERVABILITY</b></sub></p>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,grafana,prometheus,postman&theme=dark" alt="Linux, Bash, Git, GitHub, Grafana, Prometheus, Postman" />
 
 <p><sub><b>ALSO SHIPPING WITH</b></sub></p>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastapi,tailwind&theme=dark" alt="TypeScript, React, Next.js, Node.js, FastAPI, Tailwind CSS" />
-<br /><br />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwindcss,vite&theme=dark" alt="React, Next.js, Node.js, FastAPI, Tailwind CSS, Vite" />
 
 </div>
 
@@ -113,12 +94,12 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| **[IPSEC // Analyzer](https://github.com/amit-dev01/IPSEC)** | Automated posture &amp; cryptographic evidence engine for IKEv2/IPsec tunnels | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **[NeuralChain](https://github.com/amit-dev01/NeuralChain)** | AI-powered Bitcoin transaction surveillance &amp; forensic link analysis — SIH 2026 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **[Atheris](https://github.com/amit-dev01/Atheris)** | Autonomous competitive-intelligence &amp; GTM strategy engine with multi-signal ingestion | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **[HealthScan AI](https://github.com/amit-dev01/healthscan-ai)** | Medical-report analyzer using Gemini Vision, with emergency detection &amp; WhatsApp delivery | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) |
-| **[Suraksha](https://github.com/amit-dev01/Suraksha)** | Mobile-first personal safety companion with safe-route navigation | ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/-Expo-1B1F23?style=flat-square&logo=expo&logoColor=white) |
-| **[ChainSleuth](https://github.com/amit-dev01/ChainSleuth-Spring)** | Blockchain investigation backend built on the Spring ecosystem | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **[IPSEC // Analyzer](https://github.com/amit-dev01/IPSEC)** | Automated posture &amp; cryptographic evidence engine for IKEv2/IPsec tunnels | <img src="https://skillicons.dev/icons?i=fastapi,react,postgresql,threejs&theme=dark" height="26" alt="FastAPI, React, PostgreSQL, Three.js" /> |
+| **[NeuralChain](https://github.com/amit-dev01/NeuralChain)** | AI-powered Bitcoin transaction surveillance &amp; forensic link analysis — SIH 2026 | <img src="https://skillicons.dev/icons?i=javascript,docker,kafka&theme=dark" height="26" alt="JavaScript, Docker, Kafka" /> |
+| **[Atheris](https://github.com/amit-dev01/Atheris)** | Autonomous competitive-intelligence &amp; GTM strategy engine with multi-signal ingestion | <img src="https://skillicons.dev/icons?i=fastapi,react,vite,tailwindcss&theme=dark" height="26" alt="FastAPI, React, Vite, Tailwind CSS" /> |
+| **[HealthScan AI](https://github.com/amit-dev01/healthscan-ai)** | Medical-report analyzer using Gemini Vision, with emergency detection &amp; WhatsApp delivery | <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwindcss&theme=dark" height="26" alt="Next.js, TypeScript, Tailwind CSS" /> |
+| **[Suraksha](https://github.com/amit-dev01/Suraksha)** | Mobile-first personal safety companion with safe-route navigation | <img src="https://skillicons.dev/icons?i=react,typescript,firebase&theme=dark" height="26" alt="React Native, TypeScript, Firebase" /> |
+| **[ChainSleuth](https://github.com/amit-dev01/ChainSleuth-Spring)** | Blockchain investigation backend built on the Spring ecosystem | <img src="https://skillicons.dev/icons?i=java,spring,maven,postgresql&theme=dark" height="26" alt="Java, Spring, Maven, PostgreSQL" /> |
 
 <!-- ============================== FOCUS ============================== -->
 <h2 align="center">
