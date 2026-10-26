@@ -71,7 +71,19 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle,idea&theme=dark" alt="Spring, Hibernate, Maven, Gradle, IntelliJ IDEA" />
 
-<sub>Spring Security · Spring Data JPA · JUnit 5 · Mockito · Lombok · Apache Tomcat</sub>
+<p><sub>
+<img src="assets/icons/spring-security.svg" height="18" alt="Spring Security" />&nbsp;Spring Security
+&nbsp;&nbsp;&middot;&nbsp;&nbsp;
+<img src="assets/icons/spring-data-jpa.svg" height="18" alt="Spring Data JPA" />&nbsp;Spring Data JPA
+&nbsp;&nbsp;&middot;&nbsp;&nbsp;
+<img src="assets/icons/junit5.svg" height="18" alt="JUnit 5" />&nbsp;JUnit 5
+&nbsp;&nbsp;&middot;&nbsp;&nbsp;
+<img src="assets/icons/mockito.svg" height="18" alt="Mockito" />&nbsp;Mockito
+&nbsp;&nbsp;&middot;&nbsp;&nbsp;
+<img src="assets/icons/lombok.svg" height="18" alt="Lombok" />&nbsp;Lombok
+&nbsp;&nbsp;&middot;&nbsp;&nbsp;
+<img src="assets/icons/apache-tomcat.svg" height="18" alt="Apache Tomcat" />&nbsp;Apache Tomcat
+</sub></p>
 
 <p><sub><b>DATA, STREAMING &amp; CACHING</b></sub></p>
 
