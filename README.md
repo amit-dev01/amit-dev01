@@ -20,7 +20,7 @@
 
 <!-- ============================== ABOUT ============================== -->
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:user-round.svg?color=%237C3AED" height="22" />&nbsp; About
+  <img src="assets/icons/user-round.svg" height="22" />&nbsp; About
 </h2>
 
 <table>
@@ -54,7 +54,7 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <!-- ============================== TECH STACK ============================== -->
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:layers.svg?color=%237C3AED" height="22" />&nbsp; Tech Stack
+  <img src="assets/icons/layers.svg" height="22" />&nbsp; Tech Stack
 </h2>
 
 <div align="center">
@@ -89,7 +89,7 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <!-- ============================== PROJECTS ============================== -->
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:rocket.svg?color=%237C3AED" height="22" />&nbsp; Selected Work
+  <img src="assets/icons/rocket.svg" height="22" />&nbsp; Selected Work
 </h2>
 
 | Project | What it does | Built with |
@@ -103,7 +103,7 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <!-- ============================== FOCUS ============================== -->
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:target.svg?color=%237C3AED" height="22" />&nbsp; Current Focus
+  <img src="assets/icons/target.svg" height="22" />&nbsp; Current Focus
 </h2>
 
 | Area | Focus |
@@ -116,7 +116,7 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
 
 <!-- ============================== CONNECT ============================== -->
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:link.svg?color=%237C3AED" height="22" />&nbsp; Let's Connect
+  <img src="assets/icons/link.svg" height="22" />&nbsp; Let's Connect
 </h2>
 
 <div align="center">
@@ -141,7 +141,7 @@ I'm a **B.Tech Computer Science** student and software developer who cares most 
   to bring them back. Each card is independent, so keep only the ones you like.
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:activity.svg?color=%237C3AED" height="22" />&nbsp; GitHub at a Glance
+  <img src="assets/icons/activity.svg" height="22" />&nbsp; GitHub at a Glance
 </h2>
 
 <div align="center">
