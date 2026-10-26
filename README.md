@@ -1,5 +1,9 @@
 <!-- ============================== HERO ============================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:4F46E5,45:7C3AED,100:06B6D4&text=Amit%20Dey&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=B.Tech%20CSE%20%E2%80%A2%20Backend%20%26%20Cloud-Native%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Amit Dey" />
+<h1 align="center">Amit Dey</h1>
+
+<p align="center">
+  <b>B.Tech CSE &nbsp;&bull;&nbsp; Backend &amp; Cloud-Native Developer</b>
+</p>
 
 <div align="center">
 
